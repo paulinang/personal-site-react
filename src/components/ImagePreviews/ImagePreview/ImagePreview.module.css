@@ -1,0 +1,16 @@
+.ImagePreview {
+    box-shadow: 0 5px 5px #ccc;
+    text-align: center;
+    vertical-align: middle;
+}
+.ImagePreview img {
+    padding-top: 5%;
+    max-width: 90%;
+    max-height: 90%;
+    object-fit: contain;
+}
+
+.ImagePreview:hover {
+    box-shadow: 0 7px 7px #b7b7b7;
+    cursor: pointer;
+}
