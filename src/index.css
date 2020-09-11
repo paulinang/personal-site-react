@@ -15,13 +15,3 @@ code {
 h2 {
     font-family: 'Playfair Display', serif;
 }
-
-@media (min-width: 500px) {
-    h2 {
-        font-size: 2em;
-    }
-
-    p {
-        font-size: 1.4em;
-    }
-}
