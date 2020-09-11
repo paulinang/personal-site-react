@@ -1,0 +1,11 @@
+.Hobby {
+    padding: 16px;
+    margin-top: 16px;
+    text-align: center;
+    border: solid 2px #ccc;
+    border-radius: 10px;
+}
+
+.Hobby h2 {
+    margin: 0;
+}

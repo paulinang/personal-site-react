@@ -1,0 +1,21 @@
+.Project {
+    padding: 16px;
+    margin-top: 16px;
+    border: solid 2px #ccc;
+    border-radius: 10px;
+}
+
+.ProjectImage {
+    padding: 10px 0;
+    width: 100%;
+    text-align: center;
+}
+
+.ProjectImage img {
+    margin-top: 10px;
+    width: 80%;
+}
+
+.Project h2 {
+    margin: 0;
+}
