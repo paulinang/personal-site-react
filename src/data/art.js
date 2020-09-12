@@ -1,9 +1,9 @@
-import dragon080820 from '../assets/images/art/dragon-080820.png';
-import hrothgar040820 from '../assets/images/art/hrothgar-040820.png';
-import skyrim080920 from '../assets/images/art/skyrim-080920.png';
-import sarah041320 from '../assets/images/art/sarah-041320.png';
-import sarah041420 from '../assets/images/art/sarah-041420.png';
-import werewolf041720 from '../assets/images/art/werewolf-041720.png';
+import dragon080820 from '../assets/images/art/dragon-080820.jpg';
+import hrothgar040820 from '../assets/images/art/hrothgar-040820.jpg';
+import skyrim080920 from '../assets/images/art/skyrim-080920.jpg';
+import sarah041320 from '../assets/images/art/sarah-041320.jpg';
+import sarah041420 from '../assets/images/art/sarah-041420.jpg';
+import werewolf041720 from '../assets/images/art/werewolf-041720.jpg';
 
 const art = {
   'dragon-080820': {

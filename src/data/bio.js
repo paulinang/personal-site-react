@@ -1,4 +1,4 @@
-import photo from '../assets/images/me.png';
+import photo from '../assets/images/me.jpg';
 
 const bio = {
   photo: photo,

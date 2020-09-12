@@ -1,9 +1,9 @@
-import rockies2020 from '../assets/images/travel/rockies2020.png';
-import niagarafalls2019 from '../assets/images/travel/niagarafalls2019.png';
-import taiwan2018 from '../assets/images/travel/taiwan2018.png';
-import pointreyes2018 from '../assets/images/travel/pointreyes2018.png';
-import vancouver2017 from '../assets/images/travel/vancouver2017.png';
-import japan2017 from '../assets/images/travel/japan2017.png';
+import rockies2020 from '../assets/images/travel/rockies2020.jpg';
+import niagarafalls2019 from '../assets/images/travel/niagarafalls2019.jpg';
+import taiwan2018 from '../assets/images/travel/taiwan2018.jpg';
+import pointreyes2018 from '../assets/images/travel/pointreyes2018.jpg';
+import vancouver2017 from '../assets/images/travel/vancouver2017.jpg';
+import japan2017 from '../assets/images/travel/japan2017.jpg';
 
 // travel photo aspect ratio is 3:4
 const travel = {
