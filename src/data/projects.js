@@ -13,7 +13,7 @@ const projects = {
     title: 'Overwatch League Fan - Bixby voice assistant app',
     github: 'https://github.com/paulinang/overwatchLeagueFan-bixby-capsule',
     summary:
-      "A Bixby voice assistant app that gives schedule and match info for the professional eSports Overwatch League. As the same Bixby developer tools I use for work are available to the public, I decided to create my own application in my spare time to put myself in the external developer's shoes. I chose a personal interest (video gaming) to build an app around and published it on the Bixby martketplace in en-US. This gave me insight into the external dev process to allow me to be a better advocate for them.",
+      'A Bixby voice assistant app that receives and answers natural language questions about the professional eSports Overwatch League. While I already build Bixby apps professionally, I wanted to build a capsule in my spare time. This gave me some insight to be a better advocate for external devs. This also gave me the full control over product scope, design, and topic (video games - a personal interest). This capsule is available on the Bixby martketplace in en-US.',
     techUsed:
       'Bixby modeling language and views, Javascript, PandaScore API for eSports data',
     image: overwatchBixbyGif,
