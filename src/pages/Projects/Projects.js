@@ -18,12 +18,12 @@ const Projects = (props) => (
     {Object.keys(projectsData).map((projectId) => (
       <div key={projectId} className={classes.Project}>
         <h2>{projectsData[projectId].title}</h2>
+        <p>{projectsData[projectId].summary}</p>
         {projectsData[projectId].image && (
           <div className={classes.ProjectImage}>
             <img src={projectsData[projectId].image} alt="project" />
           </div>
         )}
-        <p>{projectsData[projectId].summary}</p>
         <p>Tech used: {projectsData[projectId].techUsed}</p>
         <p>
           Check out the Github repo{' '}
